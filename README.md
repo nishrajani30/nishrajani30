@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at [**IBM**](https://www.ibm.com) where I convert product vision into real-world entity.
 - ⚙️ I use daily: `serverless`, `AWS/Azure cloud`,`Scalable Application` `.js`, `react`, `.graphql`, `.ts`, `next`, `Github Actions For CI/CD`, `AWS Lambda`, `OpenShift` and `Docker`
-- 👯 I’m looking to collaborate on **Open source projects( Web3 || BlockChain || Solidy || Sonana || JS || React || Golang || Serverless)**
+- 👯 I’m looking to collaborate on **Open source projects( Web3 || JS || React || Serverless)**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/nishtha-rajani-a3b2b568/)
 
 <img src="https://user-images.githubusercontent.com/993962/162679505-bb93c35d-6d2d-435d-b204-de1ad38c8924.gif" width="250" />
